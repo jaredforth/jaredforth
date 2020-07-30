@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello, 👋 My name is Jared 
+
+I am a software developer, creative problem solver, musician, and lifelong learner.
 
 <!--
 **jaredforth/jaredforth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
