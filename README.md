@@ -3,7 +3,7 @@
 I am a [software developer](https://jaredforth.com/software), [musician](https://jaredforthmusic.com), and lifelong learner.
 
 - 🔭 I’m currently working on: 
-  - 💻 Web Ppplications [@rivalmind](https://github.com/rivalmind) 
+  - 💻 Web Applications [@rivalmind](https://github.com/rivalmind) 
   - 📈 Data Analytics [@rivaldata](https://github.com/rivaldata)
   - 🔊 Audio programming [@wavedesk](https://github.com/wavedesk)
   - 🎼 Music Theory [@jaredforthmusic](https://github.com/jaredforthmusic)
