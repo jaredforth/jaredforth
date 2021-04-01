@@ -7,6 +7,10 @@ I am a [software developer](https://jaredforth.com/software), [musician](https:/
   - 📈 Data Analytics [@rivaldata](https://github.com/rivaldata)
   - 🔊 Audio programming [@wavedesk](https://github.com/wavedesk)
   - 🎼 Music Theory [@jaredforthmusic](https://github.com/jaredforthmusic)
+
+- 🌱 I’m currently learning:
+  - 🧮 Functional programming in [Haskell](https://github.com/haskell) & [Elm](https://github.com/elm-lang)
+  - 🔊 Audio programming with C++ and 🍊 [JUCE](https://github.com/juce-framework)
 <!--
 **jaredforth/jaredforth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
