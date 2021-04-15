@@ -6,7 +6,7 @@ I am a [software developer](https://jaredforth.com/software), [musician](https:/
   - 💻 Web Applications [@rivalmind](https://github.com/rivalmind) 
   - 📈 Data Analytics [@rivaldata](https://github.com/rivaldata)
   - 🔊 Audio programming [@wavedesk](https://github.com/wavedesk)
-  - 🎼 Music Theory [@jaredforthmusic](https://github.com/jaredforthmusic)
+  - 🎼 Music Theory [@jaredforthmusic](https://github.com/jaredforthmusic) & [@maj7app](https://github.com/maj7app)
 
 - 🌱 I’m currently learning:
   - 🧮 Functional programming in [Haskell](https://github.com/haskell) & [Elm](https://github.com/elm-lang)
