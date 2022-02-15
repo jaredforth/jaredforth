@@ -4,7 +4,6 @@ I am a [software developer](https://jaredforth.com/software), [musician](https:/
 
 - 🔭 I’m currently working on: 
   - 💻 Web Engineering [@outputinc](https://github.com/outputinc) 
-  - 📈 Data Analytics [@rivaldata](https://github.com/rivaldata)
   - 🔊 Audio programming [@wavedesk](https://github.com/wavedesk)
   - 🎼 Music Theory [@jaredforthmusic](https://github.com/jaredforthmusic) & [@maj7app](https://github.com/maj7app)
 
