@@ -1,4 +1,4 @@
-### Hello, 👋 My name is Jared
+# Hello, 👋 My name is Jared
 
 I am a [software developer](https://jaredforth.com/software), [musician](https://jaredforthmusic.com), and autodidact.
 
