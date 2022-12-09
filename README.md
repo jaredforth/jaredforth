@@ -11,7 +11,6 @@ I am a [software developer](https://jaredforth.com/software), [musician](https:/
   - 🔊 Audio programming with C++ and 🍊 [JUCE](https://github.com/juce-framework)
 
 - 📫 Connect with me: 
-  - [Twitter](https://twitter.com/jaredforthdev)
   - [LinkedIn](https://www.linkedin.com/in/jaredforth/)
 
 - 🎶 My Music:
