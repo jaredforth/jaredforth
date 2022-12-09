@@ -1,7 +1,7 @@
 # Hello, 👋 My name is Jared
 
-![](https://raw.githubusercontent.com/jaredforth/github-stats/master/generated/overview.svg)
-![](https://raw.githubusercontent.com/jaredforth/github-stats/master/generated/languages.svg)
+![](https://raw.githubusercontent.com/jaredforth/github-stats/main/generated/overview.svg)
+![](https://raw.githubusercontent.com/jaredforth/github-stats/main/generated/languages.svg)
 
 I am a [software developer](https://jaredforth.com/software), [musician](https://jaredforthmusic.com), and autodidact.
 
