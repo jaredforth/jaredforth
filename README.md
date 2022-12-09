@@ -1,4 +1,4 @@
-### Hello, 👋 My name is Jared 
+### Hello, 👋 My name is Jared
 
 I am a [software developer](https://jaredforth.com/software), [musician](https://jaredforthmusic.com), and autodidact.
 
@@ -19,6 +19,12 @@ I am a [software developer](https://jaredforth.com/software), [musician](https:/
   - [Instagram](https://www.instagram.com/jaredforthmusic/)
   - [Facebook](https://www.facebook.com/jaredforthmusic)
   - [Twitter](https://twitter.com/jaredforthmusic)
+  
+
+## Stats
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaredforth&layout=compact" height="160" alt="Jared's most used languages visualization"/>
+  
 <!--
 **jaredforth/jaredforth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
