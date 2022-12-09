@@ -4,7 +4,6 @@ I am a [software developer](https://jaredforth.com/software), [musician](https:/
 
 - 🔭 I’m currently working on: 
   - 💻 Web Engineering [@outputinc](https://github.com/outputinc) 
-  - 🎼 Music Theory [@jaredforthmusic](https://github.com/jaredforthmusic)
 
 - 🌱 I’m currently learning:
   - 🧮 Functional programming in [Haskell](https://github.com/haskell) & [Elm](https://github.com/elm-lang)
