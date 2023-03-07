@@ -9,7 +9,7 @@ I am a [software developer](https://jaredforth.com/software), [musician](https:/
   - 💻 Web Engineering [@outputinc](https://github.com/outputinc) 
 
 - 🌱 I’m currently learning:
-  - 🧮 Functional programming in [Haskell](https://github.com/haskell) & [Elm](https://github.com/elm-lang)
+  - 🧮 Functional programming in [Haskell](https://github.com/haskell) & [Racket](https://github.com/racket)
   - 🔊 Audio programming with C++ and 🍊 [JUCE](https://github.com/juce-framework)
 
 - 📫 Connect with me: 
