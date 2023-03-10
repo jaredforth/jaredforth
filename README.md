@@ -3,7 +3,9 @@
 ![](https://raw.githubusercontent.com/jaredforth/github-stats/main/generated/overview.svg)
 ![](https://raw.githubusercontent.com/jaredforth/github-stats/main/generated/languages.svg)
 
+<!--
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jaredforth&langs_count=10&layout=compact&custom_title=Public%20Languages%20Used)
+-->
 
 I am a [software developer](https://jaredforth.com/software), [musician](https://jaredforthmusic.com), and autodidact.
 
