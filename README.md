@@ -15,7 +15,7 @@ I am a [software developer](https://jaredforth.com/software), [musician](https:/
 - 📫 Connect with me: 
   - [LinkedIn](https://www.linkedin.com/in/jaredforth/)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jaredforth&langs_count=10&layout=compact&custom_title=Public%20Languages%20Used&hide=html,cmake&size_weight=0.25&count_weight=0.75&card_width=450)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=jaredforth&langs_count=10&layout=compact&custom_title=Open%20Source%20Languages&hide=html,cmake&size_weight=0.25&count_weight=0.75&card_width=450)
   
 <!--
 **jaredforth/jaredforth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
