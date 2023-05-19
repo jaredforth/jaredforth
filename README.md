@@ -9,6 +9,7 @@ I am a [software developer](https://jaredforth.com/software), [musician](https:/
 
 - 🔭 I’m currently working on: 
   - 💻 Software [@outputinc](https://github.com/outputinc) 
+  - Open Source in [Rust](https://github.com/rust-lang) and [Racket](https://github.com/racket)
 - 🌱 I’m currently learning:
   - 🧮 Functional programming in [Haskell](https://github.com/haskell) & [Racket](https://github.com/racket)
   - 🔊 Audio programming with C++ and 🍊 [JUCE](https://github.com/juce-framework)
