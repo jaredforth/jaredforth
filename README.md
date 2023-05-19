@@ -13,6 +13,7 @@ I am a [software developer](https://jaredforth.com/software), [musician](https:/
 - 🌱 I’m currently learning:
   - 🧮 Functional programming in [Haskell](https://github.com/haskell) & [Racket](https://github.com/racket)
   - 🔊 Audio programming with C++ and 🍊 [JUCE](https://github.com/juce-framework)
+  - The [Swift](https://www.swift.org) programming language 
 - 📫 Connect with me: 
   - [LinkedIn](https://www.linkedin.com/in/jaredforth/)
 
