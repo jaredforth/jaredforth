@@ -1,6 +1,11 @@
-# Hello, 👋 My name is Jared
+[jaredforth.com](https://jaredforth.com)
+
+~ software engineer creating usable, accessible, humane, & ethical technology ~
 
 ![](https://raw.githubusercontent.com/jaredforth/github-stats/main/generated/overview.svg)
+
+<!--
+
 ![](https://raw.githubusercontent.com/jaredforth/github-stats/main/generated/languages.svg)
 
 I am a [software developer](https://jaredforth.com/software), [musician](https://jaredforthmusic.com), and autodidact.
@@ -17,3 +22,4 @@ I am a [software developer](https://jaredforth.com/software), [musician](https:/
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jaredforth&langs_count=10&layout=compact&custom_title=Open%20Source%20Languages&hide=html,cmake&size_weight=0.25&count_weight=0.75&card_width=450)
   
+-->
